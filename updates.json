@@ -25,7 +25,20 @@
       "author": "Crocoblock",
       "description": "Managed JetSmartFilters update package distributed through the LOCUS-T Update Manager.",
       "changelog": "Managed package release."
-    }
+    },
+    "ultimate-elementor/ultimate-elementor.php": {
+    "name": "Ultimate Addons for Elementor Pro",
+    "slug": "ultimate-elementor",
+    "version": "1.45.3",
+    "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/ultimate-elementor-v1.45.3.zip",
+    "url": "https://github.com/locustsupport/plugins-plublic",
+    "requires": "6.0",
+    "requires_php": "7.4",
+    "tested": "7.1",
+    "author": "Brainstorm Force",
+    "description": "Managed Ultimate Addons for Elementor Pro update package distributed through the LOCUS-T Update Manager.",
+    "changelog": "Managed package release."
+}
   },
   "themes": {
     "betheme": {
