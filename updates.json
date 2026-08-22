@@ -1,16 +1,16 @@
 {
   "plugins": {
-    "wp-rocket/wp-rocket.php": {
-      "name": "WP Rocket",
-      "slug": "wp-rocket",
-      "version": "3.23.2.2",
-      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/wp-rocket_3.23.2.2.zip",
+    "jet-menu/jet-menu.php": {
+      "name": "JetMenu",
+      "slug": "jet-menu",
+      "version": "3.0.3",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-menu.zip",
       "url": "https://github.com/locustsupport/plugins-plublic",
       "requires": "6.0",
       "requires_php": "7.4",
       "tested": "7.1",
-      "author": "LOCUS-T",
-      "description": "Managed update package distributed through the LOCUS-T Update Manager.",
+      "author": "Crocoblock",
+      "description": "Managed JetMenu update package distributed through the LOCUS-T Update Manager.",
       "changelog": "Managed package release."
     }
   },
