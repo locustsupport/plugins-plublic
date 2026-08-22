@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "jet-elements/jet-elements.php": {
+      "name": "JetElements For Elementor",
+      "slug": "jet-elements",
+      "version": "2.9.2",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-elements-v2.9.2.zip",
+      "url": "https://github.com/locustsupport/plugins-plublic",
+      "requires": "6.0",
+      "requires_php": "7.4",
+      "tested": "7.1",
+      "author": "Crocoblock",
+      "description": "Managed JetElements update package distributed through the LOCUS-T Update Manager.",
+      "changelog": "Managed package release."
+    },
     "piotnet-addons-for-elementor-pro/piotnet-addons-for-elementor-pro.php": {
       "name": "Piotnet Addons For Elementor Pro",
       "slug": "piotnet-addons-for-elementor-pro",
