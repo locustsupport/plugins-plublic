@@ -39,7 +39,7 @@
       "description": "Managed The Plus Addons for Elementor Premium update package distributed through the LOCUS-T Update Manager.",
       "changelog": "Managed package release."
     },
-    "premium-addons-pro/premium-addons-pro.php": {
+    "premium-addons-pro/premium-addons-pro-for-elementor.php": {
       "name": "Premium Addons PRO",
       "slug": "premium-addons-pro",
       "version": "2.9.64",
