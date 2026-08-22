@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "jet-product-gallery/jet-product-gallery.php": {
+     "name": "JetProductGallery for Elementor",
+     "slug": "jet-product-gallery",
+     "version": "2.3.1",
+     "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-woo-product-gallery-v2.3.1.zip",
+     "url": "https://github.com/locustsupport/plugins-plublic",
+     "requires": "6.0",
+     "requires_php": "7.4",
+     "tested": "7.1",
+     "author": "Crocoblock",
+     "description": "Managed JetProductGallery for Elementor update package distributed through the LOCUS-T Update Manager.",
+     "changelog": "Managed package release."
+    },
     "jet-menu/jet-menu.php": {
       "name": "JetMenu",
       "slug": "jet-menu",
