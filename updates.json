@@ -1,0 +1,27 @@
+{
+  "plugins": {
+    "wp-rocket/wp-rocket.php": {
+      "name": "WP Rocket",
+      "slug": "wp-rocket",
+      "version": "3.23.2.2",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/wp-rocket_3.23.2.2.zip",
+      "url": "https://github.com/locustsupport/plugins-plublic",
+      "requires": "6.0",
+      "requires_php": "7.4",
+      "tested": "7.1",
+      "author": "LOCUS-T",
+      "description": "Managed update package distributed through the LOCUS-T Update Manager.",
+      "changelog": "Managed package release."
+    }
+  },
+  "themes": {
+    "betheme": {
+      "name": "Betheme",
+      "version": "28.5.7",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/betheme.zip",
+      "url": "https://github.com/locustsupport/plugins-plublic",
+      "requires": "6.0",
+      "requires_php": "7.4"
+    }
+  }
+}
