@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "woolentor-addons-pro/woolentor_addons_pro.php": {
+  "name": "WooLentor Pro",
+  "slug": "woolentor-addons-pro",
+  "version": "2.8.8",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/woolentor-addons-pro-v2.8.8.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "HasThemes",
+  "description": "Managed WooLentor Pro update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "jet-search/jet-search.php": {
   "name": "JetSearch Elementor",
   "slug": "jet-search",
