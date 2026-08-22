@@ -4,7 +4,7 @@
       "name": "JetMenu",
       "slug": "jet-menu",
       "version": "3.0.3",
-      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-menu.zip",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-menu-v3.0.3.zip",
       "url": "https://github.com/locustsupport/plugins-plublic",
       "requires": "6.0",
       "requires_php": "7.4",
