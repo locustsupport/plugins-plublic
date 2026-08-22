@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "jet-search/jet-search.php": {
+  "name": "JetSearch Elementor",
+  "slug": "jet-search",
+  "version": "3.6.2",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-search-v3.6.2.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "Crocoblock",
+  "description": "Managed JetSearch Elementor update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "essential-addons-elementor/essential_adons_elementor.php": {
   "name": "Essential Addons for Elementor Pro",
   "slug": "essential-addons-elementor",
