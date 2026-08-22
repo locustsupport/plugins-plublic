@@ -3,8 +3,8 @@
     "locus-t-update-manager/locus-t-update-manager.php": {
       "name": "LOCUS-T Update Manager",
       "slug": "locus-t-update-manager",
-      "version": "1.0.1",
-      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/locus-t-update-manager.zip",
+      "version": "1.0.2",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/locus-t-update-manager-latest.zip",
       "url": "https://github.com/locustsupport/plugins-plublic",
       "requires": "6.0",
       "requires_php": "7.4",
