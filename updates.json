@@ -12,6 +12,19 @@
       "author": "Crocoblock",
       "description": "Managed JetMenu update package distributed through the LOCUS-T Update Manager.",
       "changelog": "Managed package release."
+    },
+    "jet-smart-filters/jet-smart-filters.php": {
+      "name": "JetSmartFilters",
+      "slug": "jet-smart-filters",
+      "version": "3.8.3.1",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-smart-filters-v3.8.3.1.zip",
+      "url": "https://github.com/locustsupport/plugins-plublic",
+      "requires": "6.0",
+      "requires_php": "7.4",
+      "tested": "7.1",
+      "author": "Crocoblock",
+      "description": "Managed JetSmartFilters update package distributed through the LOCUS-T Update Manager.",
+      "changelog": "Managed package release."
     }
   },
   "themes": {
