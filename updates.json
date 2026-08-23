@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "jet-tricks/jet-tricks.php": {
+  "name": "JetTricks Visual Effects Addon for Elementor",
+  "slug": "jet-tricks",
+  "version": "2.0.1",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/jet-tricks-v2.0.1.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "Crocoblock",
+  "description": "Managed JetTricks update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "woolentor-addons-pro/woolentor_addons_pro.php": {
   "name": "WooLentor Pro",
   "slug": "woolentor-addons-pro",
