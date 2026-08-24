@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "bdthemes-element-pack/bdthemes-element-pack.php": {
+  "name": "Element Pack Pro",
+  "slug": "bdthemes-element-pack",
+  "version": "9.8.15",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/bdthemes-element-pack-v9.8.15.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "BdThemes",
+  "description": "Managed Element Pack Pro update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "advanced-custom-fields-pro/acf.php": {
   "name": "Advanced Custom Fields PRO",
   "slug": "advanced-custom-fields-pro",
