@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "advanced-custom-fields-pro/acf.php": {
+  "name": "Advanced Custom Fields PRO",
+  "slug": "advanced-custom-fields-pro",
+  "version": "6.8.8",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/advanced-custom-fields-pro-v6.8.8.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "WP Engine",
+  "description": "Managed Advanced Custom Fields PRO update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "jet-tricks/jet-tricks.php": {
   "name": "JetTricks Visual Effects Addon for Elementor",
   "slug": "jet-tricks",
