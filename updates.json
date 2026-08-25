@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "js_composer/js_composer.php": {
+  "name": "WPBakery Page Builder",
+  "slug": "js_composer",
+  "version": "9.0.1",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/js_composer-v9.0.1.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "WPBakery",
+  "description": "Managed WPBakery Page Builder update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "bdthemes-element-pack/bdthemes-element-pack.php": {
   "name": "Element Pack Pro",
   "slug": "bdthemes-element-pack",
