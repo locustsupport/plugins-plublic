@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "powerpack-elements/powerpack-elements.php": {
+  "name": "PowerPack Addons for Elementor Pro",
+  "slug": "powerpack-elements",
+  "version": "3.0.4",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/powerpack-elements-v3.0.4.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "IdeaBox Creations",
+  "description": "Managed PowerPack Addons for Elementor Pro update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "wp-mail-smtp-pro/wp_mail_smtp.php": {
   "name": "WP Mail SMTP Pro",
   "slug": "wp-mail-smtp-pro",
