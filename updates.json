@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "chaty-pro/chaty.php": {
+  "name": "Chaty Pro",
+  "slug": "chaty-pro",
+  "version": "3.3.4",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/chaty-pro-3.3.4-patched.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "Premio",
+  "description": "Managed patched Chaty Pro update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "LOCUS-T patched release."
+},
     "admin-site-enhancements-pro/admin-site-enhancements.php": {
   "name": "Admin and Site Enhancements (ASE) Pro",
   "slug": "admin-site-enhancements-pro",
