@@ -264,7 +264,7 @@
     "name": "Ultimate Addons for Elementor Pro",
     "slug": "ultimate-elementor",
     "version": "1.45.3",
-    "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/ultimate-elementor-v1.45.3.zip",
+    "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/ultimate-elementor-v1.45.3-patched.zip",
     "url": "https://github.com/locustsupport/plugins-plublic",
     "requires": "6.0",
     "requires_php": "7.4",
