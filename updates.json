@@ -172,8 +172,8 @@
     "blocksy-companion-pro/blocksy-companion.php": {
   "name": "Blocksy Companion Pro",
   "slug": "blocksy-companion-pro",
-  "version": "2.1.53",
-  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/blocksy-companion-pro-v2.1.53.zip",
+  "version": "2.1.56",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/blocksy-companion-pro-v2.1.56.zip",
   "url": "https://github.com/locustsupport/plugins-plublic",
   "requires": "6.0",
   "requires_php": "7.4",
