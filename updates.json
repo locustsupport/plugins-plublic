@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "ubermenu/ubermenu.php": {
+  "name": "UberMenu 3 - The Ultimate WordPress Mega Menu",
+  "slug": "ubermenu",
+  "version": "3.8.5",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/codecanyon-2ldtrv5F-ubermenu-wordpress-mega-menu-plugin.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1",
+  "author": "Chris Mavricos, SevenSpark",
+  "description": "Managed UberMenu update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "LOCUS-T managed release."
+},
 "chaty-pro/cht-icons.php": {
   "name": "Chaty Pro",
   "slug": "chaty-pro",
