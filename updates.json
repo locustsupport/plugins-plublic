@@ -26,19 +26,6 @@
   "description": "Managed UberMenu update package distributed through the LOCUS-T Update Manager.",
   "changelog": "LOCUS-T managed release."
 },
-"chaty-pro/cht-icons.php": {
-  "name": "Chaty Pro",
-  "slug": "chaty-pro",
-  "version": "3.3.4.1-patched",
-  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/chaty-pro-3.3.4-patched.zip",
-  "url": "https://github.com/locustsupport/plugins-plublic",
-  "requires": "6.0",
-  "requires_php": "7.4",
-  "tested": "7.1",
-  "author": "Premio",
-  "description": "Managed patched Chaty Pro update package distributed through the LOCUS-T Update Manager.",
-  "changelog": "Security patched release addressing SQL injection and reflected XSS vulnerabilities."
-},
     "admin-site-enhancements-pro/admin-site-enhancements.php": {
   "name": "Admin and Site Enhancements (ASE) Pro",
   "slug": "admin-site-enhancements-pro",
