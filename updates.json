@@ -169,19 +169,6 @@
   "description": "Managed ElementsKit Pro update package distributed through the LOCUS-T Update Manager.",
   "changelog": "Managed package release."
 },
-    "blocksy-companion-pro/blocksy-companion.php": {
-  "name": "Blocksy Companion Pro",
-  "slug": "blocksy-companion-pro",
-  "version": "2.1.56",
-  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/blocksy-companion-pro-v2.1.56.zip",
-  "url": "https://github.com/locustsupport/plugins-plublic",
-  "requires": "6.0",
-  "requires_php": "7.4",
-  "tested": "7.1",
-  "author": "CreativeThemes",
-  "description": "Managed Blocksy Companion Pro update package distributed through the LOCUS-T Update Manager.",
-  "changelog": "Managed package release."
-},
     "theplus_elementor_addon/theplus_elementor_addon.php": {
       "name": "The Plus Addons for Elementor Premium",
       "slug": "theplus_elementor_addon",
