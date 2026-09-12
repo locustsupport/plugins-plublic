@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "yith-woocommerce-request-a-quote-premium/yith-woocommerce-request-a-quote.php": {
+  "name": "YITH Request a Quote for WooCommerce Premium",
+  "slug": "yith-woocommerce-request-a-quote-premium",
+  "version": "4.46.1",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/yith-woocommerce-request-a-quote-premium.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.9",
+  "requires_php": "7.0",
+  "tested": "7.1",
+  "author": "YITH",
+  "description": "Managed YITH Request a Quote for WooCommerce Premium update package distributed through the LOCUS-T Update Manager.",
+  "changelog": "Managed package release."
+},
     "advanced-cf7-db/advanced-cf7-db.php": {
   "name": "Advanced CF7 DB",
   "slug": "advanced-cf7-db",
