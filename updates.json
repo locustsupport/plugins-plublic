@@ -13,6 +13,19 @@
       "description": "Centralized update manager for LOCUS-T managed WordPress plugins and themes.",
       "changelog": "LOCUS-T Update Manager release."
     },
+    "advanced-cf7-db/advanced-cf7-db.php": {
+  "name": "Advanced CF7 DB",
+  "slug": "advanced-cf7-db",
+  "version": "2.1.3.1-LT-PATCHED",
+  "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/advanced-cf7-db-2.1.3.1-LT-PATCHED.zip",
+  "url": "https://github.com/locustsupport/plugins-plublic",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.0.2",
+  "author": "Vsourz Digital / LOCUS-T Security Patch",
+  "description": "LOCUS-T managed security-patched build of Advanced CF7 DB 2.1.3. Includes authorization hardening for CVE-2026-18594.",
+  "changelog": "2.1.3.1-LT-PATCHED: LOCUS-T security patch for CVE-2026-18594. Added form-specific server-side authorization validation to the CSV import workflow."
+},
     "ubermenu/ubermenu.php": {
   "name": "UberMenu 3 - The Ultimate WordPress Mega Menu",
   "slug": "ubermenu",
