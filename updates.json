@@ -303,8 +303,8 @@
   "themes": {
     "betheme": {
       "name": "Betheme",
-      "version": "28.5.8",
-      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/betheme-v28.5.8.zip",
+      "version": "28.5.9.1",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-plublic/main/betheme-v28.5.9.1.zip",
       "url": "https://github.com/locustsupport/plugins-plublic",
       "requires": "6.0",
       "requires_php": "7.4"
