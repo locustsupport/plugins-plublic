@@ -1,4 +1,4 @@
-```json
+json
 {
   "plugins": {
     "locus-t-update-manager/locus-t-update-manager.php": {
