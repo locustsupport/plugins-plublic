@@ -121,8 +121,8 @@ json
     "elementskit/elementskit.php": {
       "name": "ElementsKit Pro",
       "slug": "elementskit",
-      "version": "4.10.02",
-      "package": "https://raw.githubusercontent.com/locustsupport/plugins-public/main/elementskit-v4.10.02.zip",
+      "version": "4.10.4",
+      "package": "https://raw.githubusercontent.com/locustsupport/plugins-public/main/elementskit-v4.10.4.zip",
       "url": "https://github.com/locustsupport/plugins-public",
       "requires": "6.0",
       "requires_php": "7.4",
